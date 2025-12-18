@@ -1,6 +1,5 @@
 # itsChewin
 <h1 align="center">Hi 👋, I'm Chewin Grerasitsirt</h1>
-<h3 align="center">A passionate data science from Thailand</h3>
 
 - 🔭 I’m currently working on **class project and my own project**
 
