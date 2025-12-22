@@ -16,32 +16,6 @@
 
 I am a Computer Science student at **King Mongkut's University of Technology Thonburi (KMUTT)**, passionate about bridging the gap between Software Engineering and Artificial Intelligence.
 
-- 🔭 Currently working on **AI Automation & RAG Applications**
-- 🌱 Deepening my knowledge in **Large Language Models (LLMs), LangChain, and System Integration**
-- 💼 Experienced in **Full-Stack Development (React, Flutter, Python)**
-- 🎯 Goal: To leverage AI technologies to build efficient, data-driven solutions.
-
----
-
-### 🏆 Featured Project
-
-#### 📄 Smart Document Assistant (RAG Pipeline)
-An AI-powered application that allows users to chat with their PDF documents. Built with **Retrieval-Augmented Generation (RAG)** architecture to ensure accurate, context-aware responses without hallucinations.
-
-* **Tech Stack:** Python, LangChain, Google Gemini API, FAISS, Streamlit
-* **Key Features:** PDF Parsing, Vector Embeddings, Context Engineering, Secure API Management.
-
-<p align="left">
-  <a href="https://smart-doc-assistant.streamlit.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live Demo" />
-  </a>
-  <a href="https://github.com/itschewin/smart-doc-assistant" target="_blank">
-    <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo" />
-  </a>
-</p>
-
----
-
 ### 🛠 Languages and Tools
 
 **AI & Data Engineering**
