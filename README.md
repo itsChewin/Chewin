@@ -1,13 +1,11 @@
 # itsChewin
 <h1 align="center">Hi 👋, I'm Chewin Grerasitsirt</h1>
 
-- 🔭 I’m currently working on **class project and my own project**
+- 🔭 Currently working on **class project and my own project**
 
-- 🌱 I’m currently learning **in Computer Science department**
+- 🌱 Currently learning **in Computer Science department**
 
-- 📝 I regularly write articles on [https://medium.com/@chewintar](https://medium.com/@chewintar)
-
-- 📫 How to reach me **chewin.grer@gmail.com**
+- 📫 Reach me **chewin.grer@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
